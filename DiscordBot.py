@@ -4,7 +4,7 @@ import random
 from dotenv import load_dotenv
 
 load_dotenv()
-token = 'Njc3NTM0ODg3NjUzNDA4Nzk4.XkVptg._FUf8n6tNNc2nw6j_QgXLfUlLFs'
+token = ''
 
 from discord.ext import commands
 
